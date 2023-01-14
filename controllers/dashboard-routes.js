@@ -6,4 +6,4 @@ const withAuth = require('../utils/auth');
 //dashboard-routes go here
 
 
-module exports = router;
+module.exports = router;
